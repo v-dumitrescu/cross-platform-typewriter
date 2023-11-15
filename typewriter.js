@@ -1,4 +1,4 @@
-const words = ['ce faceti, prietenii mei?'];
+const words = ['Web Designer', 'Web Developer', 'Hacker'];
 
 function isWindowEnvironment() {
   try {
